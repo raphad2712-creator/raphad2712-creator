@@ -99,3 +99,4 @@ Acredito que a melhor maneira de aprender tecnologia é colocando o conhecimento
 ---
 
 <h3 align="center">⭐ Obrigado por visitar meu perfil!</h3>
+assets/banner-github.png
