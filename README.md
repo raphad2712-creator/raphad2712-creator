@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-github.png" alt="Banner Raphael David" width="100%">
+  <img src="banner-github.png" alt="Banner Raphael David" width="100%">
 </p>
 
 <h1 align="center">👨‍💻 Raphael David</h1>
@@ -99,4 +99,4 @@ Acredito que a melhor maneira de aprender tecnologia é colocando o conhecimento
 ---
 
 <h3 align="center">⭐ Obrigado por visitar meu perfil!</h3>
-assets/banner-github.png
+
