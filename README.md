@@ -1,4 +1,4 @@
-p align="center">
+
   <img src="./banner-github.png.jpeg" alt="Banner Raphael David" width="100%">
 </p>
 
