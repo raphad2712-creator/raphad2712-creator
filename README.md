@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="./banner-github.png" alt="Banner Raphael David" width="100%">
+
+  <img src="./banner-github.png.jpeg" alt="Banner Raphael David" width="100%">
 </p>
 
 <h1 align="center">👨‍💻 Raphael David</h1>
