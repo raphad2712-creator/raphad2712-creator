@@ -1,11 +1,11 @@
-
-  <img src="./banner-github.png.jpeg" alt="Banner Raphael David" width="100%">
+<p align="center">
+  <img src="./banner-github.png" alt="Banner Raphael David" width="100%">
 </p>
 
 <h1 align="center">👨‍💻 Raphael David</h1>
 
 <h3 align="center">
-  Desenvolvedor • Python • Web • Banco de Dados • Linux • Infraestrutura
+  Desenvolvedor • Python • React • JavaScript • Banco de Dados • Linux • Infraestrutura
 </h3>
 
 <p align="center">
@@ -16,24 +16,36 @@
 
 ## 👋 Sobre mim
 
-Olá! Sou **Raphael David**, apaixonado por tecnologia, desenvolvimento de software e infraestrutura.
+Olá! Sou **Raphael David**, estudante de Engenharia de Software e apaixonado por tecnologia, desenvolvimento de software e infraestrutura.
 
-Estou constantemente aprimorando meus conhecimentos através de projetos práticos, envolvendo **desenvolvimento Web, Python, banco de dados, Linux, automação e infraestrutura de redes**.
+Estou constantemente aprimorando meus conhecimentos através de projetos práticos, envolvendo **desenvolvimento Web, React, JavaScript, Python, banco de dados, Linux, automação e infraestrutura de redes**.
 
-Gosto de aprender novas tecnologias, desenvolver soluções e colocar meus conhecimentos em prática através de projetos reais.
+Gosto de aprender novas tecnologias, desenvolver soluções e transformar conhecimento em projetos reais.
 
 ---
 
-# 🚀 Tecnologias e conhecimentos
+# 🚀 Tecnologias e Conhecimentos
 
 ## 💻 Desenvolvimento
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
+
+### Conhecimentos
+
+- 🐍 Python
+- ⚛️ React
+- ⚡ JavaScript
+- 🌐 HTML5
+- 🎨 CSS3
+- 🔗 APIs
+- 📱 Desenvolvimento responsivo
+- 🧩 Desenvolvimento baseado em componentes
 
 ---
 
@@ -82,7 +94,7 @@ Conhecimentos em:
 
 - 🌐 Infraestrutura de redes
 - 🔌 TCP/IP
-- 📡 Conceitos e configuração de redes
+- 📡 Configuração e conceitos de redes
 - 🔀 Switches e roteadores
 - 🖥️ Ambientes de servidores
 - 🔧 Manutenção e diagnóstico
@@ -103,9 +115,10 @@ Conhecimentos em:
 
 # 🎯 Atualmente estudando e aprimorando
 
+- ⚛️ React
 - 🐍 Python
-- 🌐 Desenvolvimento Web
 - ⚡ JavaScript
+- 🌐 Desenvolvimento Web
 - 🗄️ SQL e Banco de Dados
 - 🔗 APIs
 - 🐧 Linux
@@ -124,6 +137,7 @@ Site institucional desenvolvido para a **ESC Manutenção e Automação Industri
 ### ✨ Principais recursos
 
 - 📱 Design responsivo
+- ⚛️ Desenvolvimento Web
 - ⚡ Animações e interações
 - 🏭 Apresentação de serviços industriais
 - 🛡️ Área dedicada à NR-12
@@ -136,9 +150,10 @@ Site institucional desenvolvido para a **ESC Manutenção e Automação Industri
 ### 💻 Tecnologias
 
 <p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </p>
 
 ### 🔗 Projeto
@@ -158,20 +173,22 @@ O projeto apresenta produtos de tecnologia através de uma interface interativa 
 ### ✨ Principais recursos
 
 - 🎨 Interface moderna
+- ⚛️ Componentização com React
 - 📱 Layout responsivo
 - 🛍️ Apresentação interativa de produtos
 - 🔄 Navegação entre produtos
-- ✨ Animações e transições em CSS
+- ✨ Animações e transições
 - ➜ Botão "Saiba Mais" animado
-- ⚡ Interações utilizando JavaScript
+- ⚡ Interações com JavaScript
 - 🖼️ Destaque visual para cada produto
 
 ### 💻 Tecnologias
 
 <p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </p>
 
 ### 🔗 Projeto
@@ -186,6 +203,7 @@ O projeto apresenta produtos de tecnologia através de uma interface interativa 
 
 Aqui no meu GitHub você encontrará projetos relacionados a:
 
+- ⚛️ React
 - 🌐 Desenvolvimento Web
 - 🎨 Landing Pages
 - 🐍 Python
@@ -237,7 +255,7 @@ Estou sempre buscando desenvolver novos projetos, resolver problemas e ampliar m
 
 Estou sempre aberto a aprender, desenvolver novos projetos e conhecer novas oportunidades na área de tecnologia.
 
-Se quiser conversar sobre **desenvolvimento Web, Python, banco de dados, Linux, infraestrutura, redes ou automação**, entre em contato.
+Se quiser conversar sobre **React, desenvolvimento Web, Python, banco de dados, Linux, infraestrutura, redes ou automação**, entre em contato.
 
 <p align="center">
   <b>⭐ Obrigado por visitar meu perfil!</b>
